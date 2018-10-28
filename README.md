@@ -1,2 +1,2 @@
 # political-world
-Sourse code Political World (RU)
+Source code Political World (RU)
